@@ -17,5 +17,4 @@ public class BeerPageList extends PageImpl<BeerDto> {
 		super(content);
 	}
 	
-
 }
